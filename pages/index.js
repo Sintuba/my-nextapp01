@@ -39,7 +39,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          モダン開発の勉強中でReact,Next.js,Node.jsを中心に勉強中です。
+          Javascriptの勉強中で特にReact,Next.js,Node.jsを中心に勉強中です。
         </p>
         {/* <Link href="/posts/first-post">最初の投稿はこちら</Link>  あとで外す*/}
       </section>
