@@ -1,6 +1,6 @@
 ---
-title: "プリレンダリングについて"
-date: "2020-02-21"
+title: "Next.jsでマイブログの作成を目指す。"
+date: "2024-01-06"
 thumbnail: "/images/thumbnail04.jpg"
 ---
 
